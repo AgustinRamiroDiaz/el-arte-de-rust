@@ -20,7 +20,7 @@
 	      println!("Hello, world!");
 	  }
 	  ```
-	- ```rust
+	- ```shell
 	  $ cargo run
 	     Compiling aprendiendo v0.1.0 (/...)
 	      Finished dev [unoptimized + debuginfo] target(s) in 0.43s
