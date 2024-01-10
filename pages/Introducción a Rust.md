@@ -24,9 +24,9 @@
 	  ```
 	- ```shell
 	  $ cargo run
-	     Compiling aprendiendo v0.1.0 (/...)
+	     Compiling aprendiendo-rust v0.1.0 (/...)
 	      Finished dev [unoptimized + debuginfo] target(s) in 0.43s
-	       Running `target/debug/aprendiendo`
+	       Running `target/debug/aprendiendo-rust`
 	  Hello, world!
 	  ```
 		-
