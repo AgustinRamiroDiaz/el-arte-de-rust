@@ -3,7 +3,7 @@
 - # Recursos Online
 	- https://www.rust-lang.org/
 	  ![image.png](../assets/image_1704925052406_0.png)
-	-
+	- https://doc.rust-lang.org/book/
 - # Creando un proyecto con `cargo`
 	- ```shell
 	  $ cargo new aprendiendo-rust
