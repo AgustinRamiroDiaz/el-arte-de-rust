@@ -3,7 +3,7 @@
 	- TODO fillme
 - # Recursos Online
 	- TODO fillme
-- # Creando un proyecto
+- # Creando un proyecto con c
 	- ```shell
 	  $ cargo new aprendiendo-rust
 	  ```
@@ -18,10 +18,16 @@
 	  rust
 	  // src/main.rs
 	  fn main() {
-	    println!("Hola!")
+	      println!("Hello, world!");
 	  }
 	  ```
-	-
+	- ```rust
+	  cargo run
+	     Compiling aprendiendo v0.1.0 (/...)
+	      Finished dev [unoptimized + debuginfo] target(s) in 0.43s
+	       Running `target/debug/aprendiendo`
+	  Hello, world!
+	  ```
 		-
 		-
 		-
