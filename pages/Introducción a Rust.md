@@ -3,7 +3,7 @@
 	- TODO fillme
 - # Recursos Online
 	- TODO fillme
-- # Creando un proyecto con `Cargo`
+- # Creando un proyecto con `cargo`
 	- ```shell
 	  $ cargo new aprendiendo-rust
 	  ```
