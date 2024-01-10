@@ -7,6 +7,11 @@
 	  ![image.png](../assets/image_1704925208540_0.png)
 - # Creando un proyecto con `cargo`
 	- ```shell
+	  
+	  $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+	  $ cargo --version
+	  ```
+	- ```shell
 	  $ cargo new aprendiendo-rust
 	  ```
 	- ```shell
