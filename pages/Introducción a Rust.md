@@ -37,9 +37,3 @@
 	       Running `target/debug/aprendiendo-rust`
 	  Hello, world!
 	  ```
-		-
-		-
-		-
-			-
-	-
-		-
