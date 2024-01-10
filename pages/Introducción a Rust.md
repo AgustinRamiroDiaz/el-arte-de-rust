@@ -5,6 +5,7 @@
 	  ![image.png](../assets/image_1704925052406_0.png)
 	- https://doc.rust-lang.org/book/
 	  ![image.png](../assets/image_1704925208540_0.png)
+	- https://rustlings.cool/
 - # Creando un proyecto con `cargo`
 	- ```shell
 	  # https://www.rust-lang.org/es/learn/get-started
