@@ -4,6 +4,7 @@
 	- https://www.rust-lang.org/
 	  ![image.png](../assets/image_1704925052406_0.png)
 	- https://doc.rust-lang.org/book/
+	  ![image.png](../assets/image_1704925208540_0.png)
 - # Creando un proyecto con `cargo`
 	- ```shell
 	  $ cargo new aprendiendo-rust
