@@ -8,13 +8,15 @@
 	  $ cargo new aprendiendo-rust
 	  ```
 	- ```shell
-	  $ ls
-	  Cargo.toml
-	  
+	  $ tree
+	  .
+	  ├── Cargo.toml
+	  └── src
+	      └── main.rs
 	  ```
 	- ```
 	  rust
-	  // main.rs
+	  // src/main.rs
 	  fn main() {
 	    println!("Hola!")
 	  }
