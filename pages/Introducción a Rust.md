@@ -4,10 +4,16 @@
 - # Recursos Online
 	- TODO fillme
 - # Creando un proyecto
-	- ```bash
+	- ```shell
 	  $ cargo new aprendiendo-rust
 	  ```
-	- ```rust
+	- ```shell
+	  $ ls
+	  Cargo.toml
+	  
+	  ```
+	- ```
+	  rust
 	  // main.rs
 	  fn main() {
 	    println!("Hola!")
